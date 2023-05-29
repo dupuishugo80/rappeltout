@@ -1,16 +1,31 @@
-# rappeltout
+#Fonctionnalités
 
-A new Flutter project.
+##Authentification
+###Connexion
+Alexis
 
-## Getting Started
+###Inscription
+Alexis
 
-This project is a starting point for a Flutter application.
+##Projet
+###Ajouter, Modifier, Supprimer un projet
+Arnaud
+###Ajouter des utilisateurs aux projets
+Arnaud
+###Gerer les membres et assigner des rôles aux membres d'un projet
+Medhi / Hugo
 
-A few resources to get you started if this is your first Flutter project:
+##Tâches
+###Ajouter, Modifier, Supprimer des tâches
+Hugo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###Status/Avancement d'un tâche
+Medhi
+###Deadline
+Medhi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##API
+Hugo
+
+##BDD
+Alexis / Arnaud
