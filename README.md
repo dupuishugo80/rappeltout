@@ -1,31 +1,31 @@
 #Fonctionnalités
 
-##Authentification
-###Connexion
+## Authentification
+### Connexion
 Alexis
 
-###Inscription
+### Inscription
 Alexis
 
-##Projet
-###Ajouter, Modifier, Supprimer un projet
+## Projet
+### Ajouter, Modifier, Supprimer un projet
 Arnaud
-###Ajouter des utilisateurs aux projets
+### Ajouter des utilisateurs aux projets
 Arnaud
-###Gerer les membres et assigner des rôles aux membres d'un projet
+### Gerer les membres et assigner des rôles aux membres d'un projet
 Medhi / Hugo
 
-##Tâches
-###Ajouter, Modifier, Supprimer des tâches
+## Tâches
+### Ajouter, Modifier, Supprimer des tâches
 Hugo
 
-###Status/Avancement d'un tâche
+### Status/Avancement d'un tâche
 Medhi
-###Deadline
+### Deadline
 Medhi
 
-##API
+## API
 Hugo
 
-##BDD
+## BDD
 Alexis / Arnaud
