@@ -1,4 +1,4 @@
-#Fonctionnalités
+# Fonctionnalités
 
 ## Authentification
 ### Connexion
